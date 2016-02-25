@@ -67,7 +67,7 @@ For a complete, working example, refer to the [login example](https://github.com
 
   - [Sluggy Bear](http://github.com/slugbay)
 
-  Copyright (c) 2016 Sluggy Bear <[https://www.slugbay.com/](https://www.slugbay.com/)>
+  Copyright (c) 2016 Sluggy Bear <[https://www.slugbay.com](https://www.slugbay.com)>
 
 ## Thanks
 
