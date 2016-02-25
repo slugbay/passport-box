@@ -67,8 +67,6 @@ For a complete, working example, refer to the [login example](https://github.com
 
   - [Sluggy Bear](http://github.com/slugbay)
 
-  ![Screenshot](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/332/858/datas/gallery.jpg)
-
   Copyright (c) 2016 Sluggy Bear <[https://www.slugbay.com/](https://www.slugbay.com/)>
 
 ## Thanks
