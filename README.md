@@ -23,7 +23,7 @@ accepts these credentials and calls `done` providing a user, as well as
 `options` specifying a client ID, client secret, and callback URL.
 
 The consumer key and secret are obtained by [creating an application](https://app.box.com/developers/services/edit/) at
-Pockets's [developer](https://developers.box.com/) site.
+Box's [developer](https://developers.box.com/) site.
 
 ```js
     passport.use(new BoxStrategy({
