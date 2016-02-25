@@ -1,6 +1,6 @@
 {
     "name": "passport-box-standard",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "Box authentication strategy for Passport.",
     "keywords": ["passport", "box", "box.com", "oauth", "oauth 2.0", "auth", "api", "authentication", "slugbay", "slugbay.com"],
     "repository": {
@@ -10,7 +10,7 @@
     "author": {
         "name": "Sluggy Bear",
         "email": "contact@slugbay.com",
-        "url": "http://www.slugbay.com"
+        "url": "https://www.slugbay.com"
     },
     "licenses": [ {
         "type": "MIT",
