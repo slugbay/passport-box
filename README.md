@@ -57,7 +57,7 @@ application:
         // Successful authentication, redirect home.
         res.redirect('/');
       });
-```js
+```
 
 ## Examples
 
