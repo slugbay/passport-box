@@ -1,5 +1,7 @@
 # Passport-box
 
+[![NPM](https://nodei.co/npm/passport-box-standard.png?downloads=true)](https://nodei.co/npm/passport-box-standard/) [![NPM](https://nodei.co/npm-dl/passport-box-standard.png?months=5&height=2)](https://nodei.co/npm/passport-box-standard/)
+
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [Box](http://box.com/) using the OAuth 2.0 API.
 
