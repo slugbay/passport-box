@@ -1,4 +1,4 @@
-# Passport-box ![Travis Status](https://travis-ci.org/slugbay/passport-box-standard.png)
+# Passport-box ![Travis Status](https://travis-ci.org/slugbay/passport-box.png)
 
 [![NPM](https://nodei.co/npm/passport-box-standard.png?downloads=true)](https://nodei.co/npm/passport-box-standard/) [![NPM](https://nodei.co/npm-dl/passport-box-standard.png?months=5&height=2)](https://nodei.co/npm/passport-box-standard/)
 
